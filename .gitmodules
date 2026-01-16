@@ -1,3 +1,6 @@
 [submodule "./UCPD_Public"]
 	path = ./UCPD_Public
 	url = https://github.com/ArnoXX/UCPD_Public
+[submodule "UCPD_Public"]
+	path = UCPD_Public
+	url = https://github.com/ArnoXX/UCPD_Public
